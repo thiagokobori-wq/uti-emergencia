@@ -1,0 +1,10 @@
+{
+  "name": "UTI & Emergência — Assistente Clínico",
+  "short_name": "UTI Emergência",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6f8",
+  "theme_color": "#102b3f",
+  "description": "Protótipo clínico demonstrativo de censo, diluições e ventilação mecânica.",
+  "icons": []
+}
